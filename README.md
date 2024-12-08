@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Parth Chauhan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **frameworks, java**
+- 🌱 I’m currently learning ** java , python , java scripts, data structure , html , css **
 
 - 📫 How to reach me **chauhanparth6635@gmail.com**
 
